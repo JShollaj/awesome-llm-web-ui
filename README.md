@@ -1,10 +1,9 @@
-# Awesome LLM WebUIs
+# Awesome LLM WebUIs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![LLM GUI](<Assets/Awesome GUI LLM.png>)
 
 > Curating the best LLM Web User Interfaces.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository is dedicated to listing the most awesome Large Language Model (LLM) Web User Interfaces that facilitate interaction with powerful AI models.
 
