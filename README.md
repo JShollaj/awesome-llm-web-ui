@@ -23,7 +23,7 @@ Your stars ⭐ and recommendations 🫶 help grow this vibrant community!
 
 Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
-## 📚 List of LLM-Web UI
+## 📚 Contents
 
 - [Streamlit](https://github.com/streamlit/streamlit)
 - [Gradio](https://github.com/gradio-app/gradio)
