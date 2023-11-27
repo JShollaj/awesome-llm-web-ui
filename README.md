@@ -58,10 +58,6 @@ Instructions on how to set up and run the listed WebUIs are provided within thei
 
 We welcome all contributions to improve the repository. Please read through the [contribution guidelines](CONTRIBUTING.md) before making a pull request.
 
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ---
 
 <small>Last updated on: 27/11/2023</small>
