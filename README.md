@@ -26,32 +26,38 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 List of LLM-Web UI
 
-- [Streamlit](#streamlit)
-- [Lobe Chat](#lobe-chat)
-- [Lollms WebUI](#lollms-webui)
-- [Ollama WebUI](#ollama-webui)
-- [GPT-4All](#gpt-4all)
-- [H2O GPT](#h2o-gpt)
-- [ChainFury](#chainfury)
-- [Amica](#amica)
-- [Serge Chat](#serge-chat)
-- [LLM Multitool](#llm-multitool)
-- [Sanctum AI](#sanctum-ai)
-- [Hugging Face Chat UI](#hugging-face-chat-ui)
-- [Text Generation WebUI](#text-generation-webui)
-- [LocalGPT](#localgpt)
-- [Silly Tavern](#silly-tavern)
-- [KoboldAI](#koboldai)
-- [AI Messenger](#ai-messenger)
-- [Exui](#exui)
-- [Spellbook Docker](#spellbook-docker)
+- [Streamlit](https://github.com/streamlit/streamlit)
+- [Lobe Chat](https://github.com/lobehub/lobe-chat)
+- [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/)
+- [Ollama WebUI](https://github.com/ollama-webui/ollama-webui)
+- [GPT-4All](https://github.com/nomic-ai/gpt4all)
+- [H2O GPT](https://github.com/h2oai/h2ogpt)
+- [ChainFury](https://github.com/NimbleBoxAI/ChainFury)
+- [Amica](https://github.com/semperai/amica)
+- [Serge Chat](https://github.com/serge-chat/serge)
+- [LLM Multitool](https://github.com/sedwards2009/llm-multitool)
+- [Sanctum AI](https://sanctum.ai/)
+- [Hugging Face Chat UI](https://github.com/huggingface/chat-ui)
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+- [LocalGPT](https://github.com/PromtEngineer/localGPT)
+- [Silly Tavern](https://github.com/SillyTavern/SillyTavern)
+- [KoboldAI](https://github.com/LostRuins/koboldcpp)
+- [AI Messenger](https://github.com/shinomakoi/AI-Messenger)
+- [Exui](https://github.com/turboderp/exui)
+- [Spellbook Docker](https://github.com/noco-ai/spellbook-docker)
 
 ## 📝 Chat Interfaces
 
-- **Hugging Face's Chat UI**: An elegant UI that allows for local and web-based interactions.
-- **LobeChat**: Empowering AI conversations with extensions for web search and TTS.
+### Streamlit
+Open-source app framework designed to turn data scripts into shareable web apps in minutes.
 
-... (Continue listing other UIs in similar format)
+### Lobe Chat
+A platform that offers conversational AI capabilities, integrating Lobe's machine learning tools with chat functionalities.
+
+### Lollms WebUI
+Web UI featuring integration with LLMs for PDF handling, stable diffusion, and web search capabilities.
+
+... (Continue with a similar format for each entry)
 
 ## 📎 Installation Guides
 
