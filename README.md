@@ -24,16 +24,27 @@ Your stars ⭐ and recommendations 🫶 help grow this vibrant community!
 
 Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
-## 📚 Table of Contents
+## 📚 List of LLM-Web UI
 
-- [Chat Interfaces](#chat-interfaces)
-- [PDF Generators](#pdf-generators)
-- [Web Search Integrations](#web-search-integrations)
-- [File Ingestion](#file-ingestion)
-- [Custom Characters and Roleplay](#custom-characters-and-roleplay)
-- [Experimental UIs](#experimental-uis)
-- [Basic Replications](#basic-replications)
-- [And More...](#and-more)
+- [Streamlit](#streamlit)
+- [Lobe Chat](#lobe-chat)
+- [Lollms WebUI](#lollms-webui)
+- [Ollama WebUI](#ollama-webui)
+- [GPT-4All](#gpt-4all)
+- [H2O GPT](#h2o-gpt)
+- [ChainFury](#chainfury)
+- [Amica](#amica)
+- [Serge Chat](#serge-chat)
+- [LLM Multitool](#llm-multitool)
+- [Sanctum AI](#sanctum-ai)
+- [Hugging Face Chat UI](#hugging-face-chat-ui)
+- [Text Generation WebUI](#text-generation-webui)
+- [LocalGPT](#localgpt)
+- [Silly Tavern](#silly-tavern)
+- [KoboldAI](#koboldai)
+- [AI Messenger](#ai-messenger)
+- [Exui](#exui)
+- [Spellbook Docker](#spellbook-docker)
 
 ## 📝 Chat Interfaces
 
