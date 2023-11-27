@@ -46,18 +46,6 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Exui](https://github.com/turboderp/exui)
 - [Spellbook Docker](https://github.com/noco-ai/spellbook-docker)
 
-## 📝 Chat Interfaces
-
-### Streamlit
-Open-source app framework designed to turn data scripts into shareable web apps in minutes.
-
-### Lobe Chat
-A platform that offers conversational AI capabilities, integrating Lobe's machine learning tools with chat functionalities.
-
-### Lollms WebUI
-Web UI featuring integration with LLMs for PDF handling, stable diffusion, and web search capabilities.
-
-... (Continue with a similar format for each entry)
 
 ## 📎 Installation Guides
 
