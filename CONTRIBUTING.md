@@ -36,11 +36,11 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 
 ## Code of Conduct
 
-This project and everyone participating in it are governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project and everyone participating in it are governed by the Code of Conduct. By participating, you are expected to uphold this code.
 
 ## License
 
-By contributing to this repository, you agree that your contributions will be licensed under the repository's [license](LICENSE).
+By contributing to this repository, you agree that your contributions will be licensed under the repository's license.
 
 Thank you for your contributions!
 
