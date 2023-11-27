@@ -27,24 +27,25 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 ## 📚 List of LLM-Web UI
 
 - [Streamlit](https://github.com/streamlit/streamlit)
+- [Gradio](https://github.com/gradio-app/gradio)
 - [Lobe Chat](https://github.com/lobehub/lobe-chat)
-- [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/)
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 - [Ollama WebUI](https://github.com/ollama-webui/ollama-webui)
+- [Hugging Face Chat UI](https://github.com/huggingface/chat-ui)
 - [GPT-4All](https://github.com/nomic-ai/gpt4all)
-- [H2O GPT](https://github.com/h2oai/h2ogpt)
+- [LocalGPT](https://github.com/PromtEngineer/localGPT)
 - [ChainFury](https://github.com/NimbleBoxAI/ChainFury)
+- [Silly Tavern](https://github.com/SillyTavern/SillyTavern)
 - [Amica](https://github.com/semperai/amica)
 - [Serge Chat](https://github.com/serge-chat/serge)
 - [LLM Multitool](https://github.com/sedwards2009/llm-multitool)
 - [Sanctum AI](https://sanctum.ai/)
-- [Hugging Face Chat UI](https://github.com/huggingface/chat-ui)
-- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
-- [LocalGPT](https://github.com/PromtEngineer/localGPT)
-- [Silly Tavern](https://github.com/SillyTavern/SillyTavern)
 - [KoboldAI](https://github.com/LostRuins/koboldcpp)
 - [AI Messenger](https://github.com/shinomakoi/AI-Messenger)
 - [Exui](https://github.com/turboderp/exui)
 - [Spellbook Docker](https://github.com/noco-ai/spellbook-docker)
+- [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/)
+- [H2O GPT](https://github.com/h2oai/h2ogpt)
 
 
 ## 📎 Installation Guides
