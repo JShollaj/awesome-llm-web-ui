@@ -29,7 +29,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Gradio](https://github.com/gradio-app/gradio)
 - [Lobe Chat](https://github.com/lobehub/lobe-chat)
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
-- [Ollama WebUI](https://github.com/ollama-webui/ollama-webui)
+- [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui)
 - [Hugging Face Chat UI](https://github.com/huggingface/chat-ui)
 - [GPT-4All](https://github.com/nomic-ai/gpt4all)
 - [LocalGPT](https://github.com/PromtEngineer/localGPT)
