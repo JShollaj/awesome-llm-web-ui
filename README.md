@@ -42,6 +42,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Serge Chat](https://github.com/serge-chat/serge)
 - [LLM Multitool](https://github.com/sedwards2009/llm-multitool)
 - [Sanctum AI](https://sanctum.ai/)
+- [HammerAI](https://www.hammerai.com/desktop)
 - [KoboldAI](https://github.com/LostRuins/koboldcpp)
 - [AI Messenger](https://github.com/shinomakoi/AI-Messenger)
 - [Exui](https://github.com/turboderp/exui)
