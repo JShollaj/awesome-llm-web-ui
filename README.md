@@ -51,6 +51,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [H2O GPT](https://github.com/h2oai/h2ogpt)
 - [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui)
 - [NoLLMChat](https://github.com/zrg-team/NoLLMChat)
+- [LibreChat](https://github.com/danny-avila/LibreChat)
 
 
 ## 📎 Installation Guides
