@@ -28,6 +28,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Streamlit](https://github.com/streamlit/streamlit)
 - [Gradio](https://github.com/gradio-app/gradio)
 - [Lobe Chat](https://github.com/lobehub/lobe-chat)
+- [Casibase](https://github.com/casibase/casibase)
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 - [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui)
 - [Hugging Face Chat UI](https://github.com/huggingface/chat-ui)
