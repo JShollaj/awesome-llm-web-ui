@@ -53,6 +53,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui)
 - [NoLLMChat](https://github.com/zrg-team/NoLLMChat)
 - [ChatHub](https://chathub.gg)
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Multi-AI Agents framework with web UI, 100+ LLM support via LiteLLM, MCP integration, and agentic workflows.
 
 
 ## 📎 Installation Guides
