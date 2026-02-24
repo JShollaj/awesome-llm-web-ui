@@ -53,6 +53,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui)
 - [NoLLMChat](https://github.com/zrg-team/NoLLMChat)
 - [ChatHub](https://chathub.gg)
+- [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3)
 
 
 ## 📎 Installation Guides
