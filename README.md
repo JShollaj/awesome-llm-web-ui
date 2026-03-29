@@ -54,6 +54,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [NoLLMChat](https://github.com/zrg-team/NoLLMChat)
 - [ChatHub](https://chathub.gg)
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3)
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - All-in-one local AI desktop app for uncensored chat, image generation, and video creation. Powered by Ollama & ComfyUI.
 
 
 ## 📎 Installation Guides
