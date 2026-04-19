@@ -9,6 +9,9 @@ This repository is dedicated to listing the most awesome Large Language Model (L
 
 ## 🚀 About Awesome LLM WebUIs
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 In this repository, we explore and catalogue the most intuitive, feature-rich, and innovative web interfaces for interacting with LLMs. These UIs range from simple chatbots to comprehensive platforms equipped with functionalities like PDF generation, web search, and more.
 
 🎙️ **Contributing**: If you have a LLM WebUI you'd love to share, please submit a pull request.
