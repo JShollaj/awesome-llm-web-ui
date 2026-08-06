@@ -54,6 +54,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [NoLLMChat](https://github.com/zrg-team/NoLLMChat)
 - [ChatHub](https://chathub.gg)
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3)
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)
 
 
 ## 📎 Installation Guides
