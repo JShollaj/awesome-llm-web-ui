@@ -38,6 +38,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Verba by Weaviate](https://github.com/weaviate/verba)
 - [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) 
 - [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue)
+- [Claudius](https://github.com/PMDevSolutions/Claudius)
 - [Reflex Chat](https://github.com/reflex-dev/reflex-chat)
 - [Silly Tavern](https://github.com/SillyTavern/SillyTavern)
 - [Amica](https://github.com/semperai/amica)
