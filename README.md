@@ -59,6 +59,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3)
 - [Creatos](https://creatos.io)
 - [next-vibe (unbottled.ai)](https://github.com/techfreaque/next-vibe)
+- [Whizi](https://whizi.io/) - Web, iOS and Android chat UI for GPT, Claude, Gemini, Grok and 280+ other models, with file chat and image and video generation.
 
 
 ## 📎 Installation Guides
