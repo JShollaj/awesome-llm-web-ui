@@ -60,6 +60,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 - [Creatos](https://creatos.io)
 - [next-vibe (unbottled.ai)](https://github.com/techfreaque/next-vibe)
 - [Whizi](https://whizi.io/) - Web, iOS and Android chat UI for GPT, Claude, Gemini, Grok and 280+ other models, with file chat and image and video generation.
+- [ezragodev/modevc-radar-mcp](https://github.com/ezragodev/modevc-radar-mcp) - MIT-licensed MCP server providing structured VC directory lookups, SEC Form D/ADV queries, and LLM token cost calculators (`https://modevc.com/api/mcp`).
 
 
 ## 📎 Installation Guides
